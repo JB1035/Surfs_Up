@@ -7,11 +7,11 @@ An initial analysis has been performed to determine the average temperature and 
 ## Results
 Pulling from the hawaii.sqlite data file, we've extracted and filtered the data to retreive a list of temperatures for the months of June and December. After saving the information to data frames, the summary statistics have been pulled for both:
 
-**Temerature Summary Statistics for June**
+**Temperature Summary Statistics for June**
 
 ![This is an image](images/june_temps.png)
 
-**Temerature Summary Statistics for December**
+**Temperature Summary Statistics for December**
 
 ![This is an image](images/dec_temps.png)
 
